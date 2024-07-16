@@ -1,0 +1,9 @@
+['Dr. Mohammad Nurur Rahman', 'https://www.cfpe.ruet.ac.bd/nurur', 'Assistant Professor', 'CFPE', 'nurur@cfpe.ruet.ac.bd', '880-1728-787675', '1st Floor, Fluid Mechanics Lab (ME), RUET']
+['Pabitra Chandra Das', 'https://www.cfpe.ruet.ac.bd/pabitra', 'Assistant Professor', 'CFPE', 'pabitra@cfpe.ruet.ac.bd', '880-1736033657', 'Room No: 325, 2nd Floor, Glass and Ceramic Engineering Building']
+['Sadia Sattar', 'https://www.cfpe.ruet.ac.bd/sadia', 'Assistant Professor', 'CFPE', 'sadia@cfpe.ruet.ac.bd', '880-1731111029', 'Room No. 333, 2nd Floor, GCE Building']
+['Md. Sajjad Hossain', 'https://www.cfpe.ruet.ac.bd/sajjadhossain', 'Assistant Professor', 'CFPE', 'sajjad.hossain@cfpe.ruet.ac.bd', '880-1719257229', 'Room No: 314, 2nd Floor, Glass & Ceramic Engineering (GCE) Building.']
+['Sajib Dey', 'https://www.cfpe.ruet.ac.bd/sajibdey', 'Lecturer', 'CFPE', 'sajibdey@cfpe.ruet.ac.bd', '880-1765797386', 'CFPE Department, 1st Floor, Fluid Mechanics Lab Building, RUET']
+
+
+
+[['Dr. Mohammad Nurur Rahman', 'https://www.cfpe.ruet.ac.bd/nurur', 'Assistant Professor', 'CFPE', 'nurur@cfpe.ruet.ac.bd', '880-1728-787675', '1st Floor, Fluid Mechanics Lab (ME), RUET'], ['Pabitra Chandra Das', 'https://www.cfpe.ruet.ac.bd/pabitra', 'Assistant Professor', 'CFPE', 'pabitra@cfpe.ruet.ac.bd', '880-1736033657', 'Room No: 325, 2nd Floor, Glass and Ceramic Engineering Building'], ['Sadia Sattar', 'https://www.cfpe.ruet.ac.bd/sadia', 'Assistant Professor', 'CFPE', 'sadia@cfpe.ruet.ac.bd', '880-1731111029', 'Room No. 333, 2nd Floor, GCE Building'], ['Md. Sajjad Hossain', 'https://www.cfpe.ruet.ac.bd/sajjadhossain', 'Assistant Professor', 'CFPE', 'sajjad.hossain@cfpe.ruet.ac.bd', '880-1719257229', 'Room No: 314, 2nd Floor, Glass & Ceramic Engineering (GCE) Building.'], ['Sajib Dey', 'https://www.cfpe.ruet.ac.bd/sajibdey', 'Lecturer', 'CFPE', 'sajibdey@cfpe.ruet.ac.bd', '880-1765797386', 'CFPE Department, 1st Floor, Fluid Mechanics Lab Building, RUET']]

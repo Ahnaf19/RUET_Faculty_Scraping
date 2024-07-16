@@ -1,0 +1,12 @@
+['Md. Anisul Islam', 'https://www.mse.ruet.ac.bd/anisulislam', 'Lecturer', 'MSE', 'anisulislam@mse.ruet.ac.bd', '880-1718311729', 'Room No: 320, GCE building']
+['Maliha Rahman', 'https://www.mse.ruet.ac.bd/malihamme', 'Lecturer', 'MSE', 'maliha.mme@gmail.com', '880-1675648508', '310, 2nd floor, GCE building']
+['Ayeman Mazdi Nahin', 'https://www.mse.ruet.ac.bd/ayemanmazdinahin', 'Lecturer', 'MSE', 'ayemanmazdinahin@gmail.com', '880-1717851974', 'Fluid Mechanics Lab 1st Floor']
+['Asrafuzzaman', 'https://www.mse.ruet.ac.bd/asrafuzzaman', 'Lecturer', 'MSE', 'asrafuzzaman@mse.ruet.ac.bd', '880-1911793365', 'Not assigned']
+['S. M. Nasim Rokon', 'https://www.mse.ruet.ac.bd/smnrokon', 'Lecturer', 'MSE', 'rokon@mse.ruet.ac.bd', '880-1782816231', 'Not assigned']
+['Umme Salma Mst. Mahmuda', 'https://www.mse.ruet.ac.bd/mahmuda', 'Lecturer', 'MSE', 'mahmuda@mse.ruet.ac.bd', 'Not assigned', 'Not assigned']
+['Moumita Tasnim Meem', 'https://www.mse.ruet.ac.bd/moumitatasnim', 'Lecturer', 'MSE', 'moumitatasnim01@gmail.com', '880-1747474793', 'Not assigned']
+['Pabitro Prosad Mondal', 'https://www.mse.ruet.ac.bd/pabitroprosad', 'Lecturer', 'MSE', 'pabitroprosad2014@gmail.com', '880-1648511358', 'Not assigned']
+
+
+
+[['Md. Anisul Islam', 'https://www.mse.ruet.ac.bd/anisulislam', 'Lecturer', 'MSE', 'anisulislam@mse.ruet.ac.bd', '880-1718311729', 'Room No: 320, GCE building'], ['Maliha Rahman', 'https://www.mse.ruet.ac.bd/malihamme', 'Lecturer', 'MSE', 'maliha.mme@gmail.com', '880-1675648508', '310, 2nd floor, GCE building'], ['Ayeman Mazdi Nahin', 'https://www.mse.ruet.ac.bd/ayemanmazdinahin', 'Lecturer', 'MSE', 'ayemanmazdinahin@gmail.com', '880-1717851974', 'Fluid Mechanics Lab 1st Floor'], ['Asrafuzzaman', 'https://www.mse.ruet.ac.bd/asrafuzzaman', 'Lecturer', 'MSE', 'asrafuzzaman@mse.ruet.ac.bd', '880-1911793365', 'Not assigned'], ['S. M. Nasim Rokon', 'https://www.mse.ruet.ac.bd/smnrokon', 'Lecturer', 'MSE', 'rokon@mse.ruet.ac.bd', '880-1782816231', 'Not assigned'], ['Umme Salma Mst. Mahmuda', 'https://www.mse.ruet.ac.bd/mahmuda', 'Lecturer', 'MSE', 'mahmuda@mse.ruet.ac.bd', 'Not assigned', 'Not assigned'], ['Moumita Tasnim Meem', 'https://www.mse.ruet.ac.bd/moumitatasnim', 'Lecturer', 'MSE', 'moumitatasnim01@gmail.com', '880-1747474793', 'Not assigned'], ['Pabitro Prosad Mondal', 'https://www.mse.ruet.ac.bd/pabitroprosad', 'Lecturer', 'MSE', 'pabitroprosad2014@gmail.com', '880-1648511358', 'Not assigned']]
