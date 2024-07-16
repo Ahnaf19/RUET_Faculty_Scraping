@@ -3,7 +3,7 @@ This is a web scraping project where BeautifulSoup, Requests, LXML libraries wer
 
 Faculty File Structure: `list` of Faculty details <br>
 
-| Index | Field | Dtype |
+| index | field | dtype |
 |----------|----------|----------|
 | 0 | Name | `str` |
 | 1 | Website | `str` |
